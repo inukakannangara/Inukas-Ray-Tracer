@@ -17,3 +17,6 @@ Indirect Illumination
 More reflections!
 ![Screenshot 2024-02-18 225019](https://github.com/DesertedGecko15/DesertedRayTracer/assets/97029305/8a0a5f2c-82c9-47a3-b692-2f2a5e9e643a)
 
+The Council of Ball.
+![image](https://github.com/DesertedGecko15/DesertedRayTracer/assets/97029305/9771ed3b-314d-4381-938a-957d2a621581)
+
