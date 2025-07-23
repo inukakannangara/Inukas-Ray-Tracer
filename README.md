@@ -1,4 +1,4 @@
-# Deserted Ray Tracer
+# Inukas Ray Tracer
 A simple ray tracer written in C++ with the use of GLFW and ImGui. Features direct/indirect light, decent reflections and skyboxes. Averages at around 60 fps with 20 samples. Produces noisy but usable images. 
 
 
